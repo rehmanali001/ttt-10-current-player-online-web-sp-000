@@ -1,5 +1,5 @@
 def turn_count(board)
-  board.each do |moves|
+  board1.each do |moves|
     #{moves}
 end
 end
